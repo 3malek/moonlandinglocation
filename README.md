@@ -12,7 +12,7 @@ In command prompt or a bash window, you need to be in the source folder, i.e. sr
 
 Then run the following two lines:
 
-javac com\malik\urfan\moon\*.java com\malik\urfan\app\MainClass.java
+javac com\malik\urfan\moon\\*.java com\malik\urfan\app\MainClass.java
 
 java com.malik.urfan.app.MainClass
 
